@@ -1,0 +1,138 @@
+{
+  "cutoff": "2026-10-22T13:32:44+00:00",
+  "timezone": "Africa/Abidjan",
+  "publication_timezone_note_fr": "Fenêtre de publication : du 21 octobre 2026 à 13:32:44 au 22 octobre 2026 à 13:32:44, Africa/Abidjan (UTC+0). Les heures affichées par KOACI ne précisent pas leur fuseau : elles sont interprétées ici à l’heure d’Abidjan, hypothèse non confirmée par le média.",
+  "publication_timezone_note_en": "Publication window: 21 October 2026 at 13:32:44 to 22 October 2026 at 13:32:44, Africa/Abidjan (UTC+0). KOACI does not specify the time zone of its displayed timestamps: they are interpreted here as Abidjan time, an assumption not confirmed by the publisher.",
+  "articles": [
+    {
+      "story_id": "fish-price-agreement",
+      "citation": 1,
+      "published_at": "2026-10-22T12:46:00+00:00",
+      "published_evidence": "© Koaci.com - jeudi 22 octobre 2026 - 12:46",
+      "event_date": "2026-10-22",
+      "source": "KOACI",
+      "url": "https://www.koaci.com/article/2026/10/22/cote-divoire/societe/cote-divoire-2-500-fcfa-de-moins-sur-le-chinchard-et-le-maquereau-apres-la-mobilisation-des-commercantes_201880.html",
+      "fr": {
+        "title": "Poisson congelé : un accord prévoit une baisse de 2 500 FCFA par carton de 20 kg",
+        "summary": "Selon KOACI, une concertation conduite le 22 octobre à Abidjan par le ministre du Commerce, Kalil Konaté, a abouti à un accord provisoire réduisant de 2 500 FCFA le prix des cartons de 20 kg de chinchard et de maquereau. Importateurs, distributeurs, commerçantes et consommateurs ont participé aux échanges. Une commission de suivi est annoncée pour contrôler la répercussion de la baisse jusqu’au détail. Son application effective sur les marchés reste à constater.",
+        "relevance": "Importateurs, détaillants et restaurateurs doivent vérifier les nouveaux tarifs fournisseurs avant d’ajuster leurs prix et leurs marges ; la baisse annoncée n’est pas encore une baisse de détail constatée.",
+        "verification": "Source consultée : article KOACI. Aucun communiqué primaire directement consulté ; aucune corroboration indépendante établie."
+      },
+      "en": {
+        "title": "Frozen fish: agreement provides for a CFA 2,500 reduction per 20 kg carton",
+        "summary": "According to KOACI, talks led in Abidjan on 22 October by Commerce Minister Kalil Konaté produced a provisional agreement cutting the price of 20 kg cartons of horse mackerel and mackerel by CFA 2,500. Importers, distributors, women traders and consumers took part in the discussions. A monitoring committee is planned to check whether the reduction reaches retail buyers. Whether the agreement is effectively implemented in markets remains to be established.",
+        "relevance": "Importers, retailers and restaurants should check suppliers’ revised prices before adjusting selling prices and margins; an announced cut is not yet an observed reduction at retail level.",
+        "verification": "Source consulted: KOACI article. No primary statement directly consulted; no independent corroboration established."
+      }
+    },
+    {
+      "story_id": "parliament-calendar",
+      "citation": 3,
+      "additional_citations": [9],
+      "published_at": "2026-10-21T14:06:00+00:00",
+      "published_evidence": "© Koaci.com - mercredi 21 octobre 2026 - 14:06",
+      "event_date": "2026-10-21",
+      "source": "KOACI ; Assemblée nationale de Côte d’Ivoire",
+      "url": "https://www.koaci.com/article/2026/10/21/cote-divoire/politique/cote-divoire-assemblee-nationale-patrick-achi-devoile-les-12-projets-de-loi-de-la-deuxieme-session-deguerpissements-et-indemnisations-sinvitent-dans-les-debats_201851.html",
+      "primary_url": "https://www.assnat.ci/?le-calendrier-des-travaux-parlementaires-de-la-deuxieme-session-ordinaire-de-2026-adopte-par-la-pleniere",
+      "fr": {
+        "title": "Assemblée nationale : calendrier adopté jusqu’au 31 décembre, divergence sur le nombre de textes",
+        "summary": "Les députés ont adopté le 21 octobre le calendrier de la deuxième session ordinaire, couvrant la période jusqu’au 31 décembre 2026. Le compte rendu officiel consulté annonce treize projets de loi : cinq ordinaires et huit ratifications d’ordonnances, contre douze dans l’article de KOACI. Il mentionne également cinq propositions de loi encore examinées pour leur recevabilité, ainsi que des demandes de débats sur les déguerpissements. L’adoption du calendrier ne vaut pas adoption des textes.",
+        "relevance": "Les directions juridiques et affaires publiques peuvent organiser leur veille législative ; les propositions évoquées ne doivent pas être traitées comme des règles déjà applicables.",
+        "verification": "Source primaire consultée : compte rendu de l’Assemblée, confirmant le calendrier et indiquant treize projets. Divergence explicite avec KOACI, qui en annonce douze ; aucune corroboration indépendante du décompte. Publication KOACI : 21 octobre à 14:06 ; page primaire datée du 21 octobre sur l’accueil officiel, sans heure établie."
+      },
+      "en": {
+        "title": "National Assembly adopts timetable through 31 December; sources disagree on bill count",
+        "summary": "On 21 October, lawmakers adopted the timetable for the second ordinary session, running through 31 December 2026. The official account consulted lists thirteen government bills: five ordinary bills and eight ordinance ratifications, compared with twelve in KOACI’s article. It also mentions five members’ bills still being assessed for admissibility, alongside requests for debates on evictions. Adoption of the timetable does not constitute passage of the legislation. The discrepancy over the number of bills remains explicit.",
+        "relevance": "Legal and public-affairs teams can schedule legislative monitoring; the proposals mentioned must not be treated as rules already in force.",
+        "verification": "Primary source consulted: the Assembly’s account, confirming the timetable and listing thirteen government bills. Explicit discrepancy with KOACI’s twelve; no independent corroboration of the count. KOACI publication: 21 October at 14:06; primary page dated 21 October on the official homepage, with no established publication time."
+      }
+    },
+    {
+      "story_id": "airport-access-warning",
+      "citation": 4,
+      "published_at": "2026-10-22T10:29:00+00:00",
+      "published_evidence": "© Koaci.com - jeudi 22 octobre 2026 - 10:29",
+      "event_date": "2026-10-22",
+      "source": "KOACI",
+      "url": "https://www.koaci.com/article/2026/10/22/cote-divoire/societe/cote-divoire-aeroport-dabidjan-les-usagers-et-passagers-invites-a-anticiper-les-departs_201872.html",
+      "fr": {
+        "title": "Aéroport d’Abidjan : AERIA recommande de partir plus tôt face au risque de ralentissements",
+        "summary": "KOACI rapporte qu’une note adressée le 22 octobre aux passagers et usagers de l’aéroport Félix-Houphouët-Boigny recommande d’anticiper le départ vers la plateforme. Selon la direction d’AERIA citée par le média, plusieurs événements concomitants en octobre pourraient ralentir les axes d’accès et provoquer des retards à l’enregistrement. L’article ne fournit ni durée supplémentaire recommandée ni liste précise des routes concernées. Il s’agit d’un avertissement sur l’accès routier, pas de l’annonce d’une fermeture de l’aéroport.",
+        "relevance": "Les entreprises, agences et transporteurs peuvent prévoir davantage de marge pour les transferts de voyageurs, sans annoncer de perturbation aérienne que la source ne documente pas.",
+        "verification": "Source consultée : article KOACI. Note originale d’AERIA non consultée directement ; aucune corroboration indépendante établie."
+      },
+      "en": {
+        "title": "Abidjan airport: AERIA advises earlier departures amid possible road delays",
+        "summary": "KOACI reports that a notice addressed on 22 October to passengers and users of Félix-Houphouët-Boigny airport recommends leaving earlier for the airport. AERIA’s management, as cited by the outlet, says several simultaneous events in October could slow access roads and cause delays at check-in. The article specifies neither an additional travel-time allowance nor the exact roads affected. This is a warning about road access, not an announcement that the airport is closing.",
+        "relevance": "Businesses, agencies and transport providers can allow more time for passenger transfers without claiming disruption to flights that the source does not document.",
+        "verification": "Source consulted: KOACI article. AERIA’s original notice not directly consulted; no independent corroboration established."
+      }
+    },
+    {
+      "story_id": "zone-f-maritime-cooperation",
+      "citation": 5,
+      "published_at": "2026-10-22T09:21:00+00:00",
+      "published_evidence": "© Koaci.com - jeudi 22 octobre 2026 - 09:21",
+      "event_date": "2026-10-21/2026-10-22",
+      "source": "KOACI",
+      "url": "https://www.koaci.com/article/2026/10/22/cote-divoire/societe/cote-divoire-securite-maritime-les-chefs-detat-major-et-commandants-des-gardes-cotes-du-golfe-de-guinee-veulent-passer-dune-cooperation-de-principe-a-celle-dactions_201867.html",
+      "fr": {
+        "title": "Sécurité maritime : cinq pays réunis à Abidjan pour renforcer la coopération en Zone F",
+        "summary": "Selon KOACI, les responsables des marines et garde-côtes de Côte d’Ivoire, du Ghana, de Guinée, du Liberia et de Sierra Leone se réunissent à Abidjan les 21 et 22 octobre. Les échanges portent sur les opérations conjointes, le partage du renseignement et la coordination face aux menaces maritimes. La pêche illégale, les trafics et les transbordements illicites figurent parmi les risques cités. La partie accessible de l’article ne documente pas encore de nouvelles décisions opérationnelles adoptées.",
+        "relevance": "Armateurs, ports, assureurs et opérateurs halieutiques ont intérêt à suivre les suites concrètes ; une réunion de coordination ne prouve pas une baisse mesurée du risque maritime.",
+        "verification": "Source consultée : partie accessible de l’article KOACI, dont l’extraction est tronquée en fin de texte. Contenu disponible suffisant pour le résumé limité ci-dessus ; communiqué final primaire non consulté et aucune corroboration indépendante établie."
+      },
+      "en": {
+        "title": "Maritime security: five countries meet in Abidjan to strengthen Zone F cooperation",
+        "summary": "According to KOACI, naval and coastguard leaders from Côte d’Ivoire, Ghana, Guinea, Liberia and Sierra Leone are meeting in Abidjan on 21 and 22 October. Discussions concern joint operations, intelligence sharing and coordination against maritime threats. Illegal fishing, trafficking and illicit transshipments are among the risks cited. The accessible portion of the article does not yet document newly adopted operational decisions. It therefore supports reporting the meeting and its agenda, rather than claiming implemented measures.",
+        "relevance": "Shipowners, ports, insurers and fisheries operators should monitor concrete follow-up; a coordination meeting does not demonstrate a measured reduction in maritime risk.",
+        "verification": "Source consulted: accessible portion of the KOACI article; extraction is truncated at the end. Available content supports only the limited summary above; no primary final statement consulted and no independent corroboration established."
+      }
+    },
+    {
+      "story_id": "land-administrative-disputes",
+      "citation": 6,
+      "published_at": "2026-10-22T07:46:00+00:00",
+      "published_evidence": "© Koaci.com - jeudi 22 octobre 2026 - 07:46",
+      "event_date": "2026-10-21",
+      "source": "KOACI",
+      "url": "https://www.koaci.com/article/2026/10/22/cote-divoire/societe/cote-divoire-litiges-lies-a-la-chefferie-et-aux-fonciers-vagondo-et-kuibiert-planchent-sur-la-mise-en-place-dun-cadre-de-concertation-et-un-mode-operatoire_201861.html",
+      "fr": {
+        "title": "Litiges fonciers : le ministère de l’Intérieur et le Conseil d’État envisagent un cadre de concertation",
+        "summary": "Le ministre de l’Intérieur, Vagondo Diomandé, et le président du Conseil d’État, Ibrahime Coulibaly Kuibiert, ont échangé le 21 octobre sur les conflits fonciers et les contestations liées à la désignation des chefs de village, rapporte KOACI. Le ministre évoque la mise en place d’un cadre de concertation et d’un mode opératoire pour prévenir ces différends. L’article décrit une volonté de coopération ; il ne précise ni calendrier d’application ni nouvelle procédure juridiquement entrée en vigueur.",
+        "relevance": "Les investisseurs immobiliers, agricoles et les collectivités peuvent suivre cette initiative, sans relâcher leurs vérifications foncières ni modifier leurs démarches sur la seule base de cette annonce.",
+        "verification": "Source consultée : article KOACI citant le ministre. Déclaration originale et document réglementaire non consultés directement ; aucune corroboration indépendante établie."
+      },
+      "en": {
+        "title": "Land disputes: Interior Ministry and Council of State consider a consultation framework",
+        "summary": "Interior Minister Vagondo Diomandé and Council of State President Ibrahime Coulibaly Kuibiert discussed land conflicts and disputes over village-chief appointments on 21 October, KOACI reports. The minister referred to establishing a consultation framework and operating arrangements to help prevent such disputes. The article describes an intention to cooperate rather than an enacted reform. It specifies neither an implementation timetable nor a new procedure that has legally entered into force, leaving the practical arrangements to be clarified.",
+        "relevance": "Property and agricultural investors, along with local authorities, can monitor the initiative without relaxing land due diligence or changing procedures solely on the basis of this announcement.",
+        "verification": "Source consulted: KOACI article quoting the minister. Original statement and regulatory document not directly consulted; no independent corroboration established."
+      }
+    },
+    {
+      "story_id": "cimdc-abidjan-declaration",
+      "citation": 7,
+      "published_at": "2026-10-22T10:11:00+00:00",
+      "published_evidence": "© Koaci.com - jeudi 22 octobre 2026 - 10:11",
+      "event_date": "2026-10-21",
+      "source": "KOACI",
+      "url": "https://www.koaci.com/article/2026/10/22/cote-divoire/societe/cote-divoire-fin-de-la-cimdc-2026-les-parties-prenantes-mobilisees-pour-une-mobilite-durable-element-cle-pour-des-villes-plus-accessibles_201871.html",
+      "fr": {
+        "title": "Mobilité durable : la CIMDC se conclut par une Déclaration d’Abidjan",
+        "summary": "KOACI situe au 21 octobre la cérémonie de clôture de la deuxième Conférence internationale de la mobilité durable et du climat, à Abidjan. Le média rapporte plus de 1 300 inscrits provenant de 40 pays, dont plus de 800 participants ivoiriens et plus de 400 internationaux. Il mentionne une Déclaration d’Abidjan destinée à orienter les politiques publiques et les partenariats. Le texte intégral de cette déclaration n’a pas été consulté ; aucun engagement financier précis n’est confirmé ici.",
+        "relevance": "Les acteurs du transport, des infrastructures et du financement climatique peuvent rechercher les engagements formalisés avant d’y voir des marchés ouverts ou des financements acquis.",
+        "verification": "Source consultée : partie accessible de l’article KOACI, extraction tronquée en fin de texte. Déclaration originale non consultée ; chiffres attribués au média, non corroborés indépendamment. Date indiquée : cérémonie de clôture, et non fin nécessaire de toutes les activités."
+      },
+      "en": {
+        "title": "Sustainable mobility: CIMDC concludes with an Abidjan Declaration",
+        "summary": "KOACI dates the closing ceremony of the second International Conference on Sustainable Mobility and Climate in Abidjan to 21 October. The outlet reports more than 1,300 registrants from 40 countries, including over 800 Ivorian participants and over 400 international participants. It mentions an Abidjan Declaration intended to guide public policy and partnerships. The declaration’s full text has not been consulted; no specific financial commitment is confirmed here. The date refers to the closing ceremony, not necessarily all activities.",
+        "relevance": "Transport, infrastructure and climate-finance stakeholders should seek formal commitments before interpreting the event as evidence of open procurement opportunities or secured financing.",
+        "verification": "Source consulted: accessible portion of KOACI’s article; extraction truncated at the end. Original declaration not consulted; figures attributed to the outlet, not independently corroborated. The date refers to the closing ceremony, not necessarily the end of every activity."
+      }
+    }
+  ],
+  "limits_fr": "Six informations distinctes retenues. Les articles anciens, les pages générales, les doublons et un sujet sur les tables-bancs dont le texte extrait était insuffisant ont été écartés. La diversité des sources reste insuffisante : les six articles d’actualité proviennent de KOACI. Un compte rendu primaire de l’Assemblée a été consulté pour contrôler le sujet parlementaire ; il contredit le décompte du média. Aucune information n’est présentée comme corroborée par plusieurs sources indépendantes. Les dates de consultation ne sont jamais utilisées comme dates de publication.",
+  "limits_en": "Six distinct stories retained. Older articles, general pages, duplicates and a school-desks story with insufficient extracted text were excluded. Source diversity remains inadequate: all six current-news articles are from KOACI. A primary National Assembly account was consulted to check the parliamentary story; it contradicts the outlet’s bill count. No story is presented as corroborated by multiple independent sources. Consultation dates are never used as publication dates."
+}

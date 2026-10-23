@@ -1,0 +1,100 @@
+# News Agent: source repository only; never the shared Hermes home.
+# Secrets, machine-local configuration and credentials (private repo is not a vault).
+.env
+.env.*
+!.env.example
+!.env.template
+**/.env
+**/.env.*
+**/.envrc
+**/config.local.*
+**/config.private.*
+/mail_settings.json
+**/*credentials*
+**/*secret*.json
+**/*token*.json
+**/auth.json
+**/hosts.yml
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.p12
+*.pfx
+
+# Runtime, personal records, delivery/edition counters, sessions and subscriptions.
+**/.runtime/
+**/runtime/
+**/sessions/
+**/logs/
+*.db
+*.db-*
+*.sqlite
+*.sqlite*
+*.sqlite3
+*.sqlite3-*
+*.log
+*.jsonl
+*.pid
+*.lock
+
+# Python/tool caches, installed dependencies, build outputs.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+node_modules/
+.next/
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.tmp
+*.bak
+*.zip
+*.tar
+*.tar.gz
+*.eml
+
+# Root data is denied by default: only audited fixtures and required artwork below.
+/data/*
+!/data/artifacts/
+/data/artifacts/*
+!/data/artifacts/edition_20261022_editorial.json
+!/data/artifacts/edition_20261022_v3.json
+!/data/artifacts/confirmed_destinations_reference.json
+!/data/frontend/
+/data/frontend/*
+!/data/frontend/welispeak_original_logo.png
+!/data/frontend/welispeak_original_logo.svg
+!/data/frontend/welispeak_v5_assets/
+/data/frontend/welispeak_v5_assets/*
+!/data/frontend/welispeak_v5_assets/*.png
+!/data/frontend/welispeak_v5_assets/*.svg
+
+# Generated artifacts and screenshots; keep the source templates and tests.
+/portable_welispeak/preview/
+/portable_welispeak/example_output/*
+# These release fixtures are read by package_release.py/tests; audited unsent samples only.
+!/portable_welispeak/example_output/newsletter.html
+!/portable_welispeak/example_output/newsletter.txt
+!/portable_welispeak/example_output/newsletter_unsent.eml
+# The portable release tests require this non-secret verification fixture.
+!/portable_welispeak/VERIFICATION_V6.json
+/world_demo/qa-*.png
+/world_demo/browser_checks.json
+# Unsent, unaddressed MIME fixture required by world_demo/test_demo.py.
+!/world_demo/mailMonde.eml
+/world_demo/mailMonde_preview.html
+/numbered_welispeak/VERIFICATION.json
+
+# Machine-specific operational instructions/research are not portable source.
+/daily_job_prompt.txt
+/cloud_research.md
+# Local audit outputs are not source material.
+/.repo-audit/

@@ -1,0 +1,222 @@
+{
+  "source": "AGENT_SPEC_CI_PRESS_BRIEF_v2.md §18",
+  "base": {
+    "number": 0,
+    "fr": "Côte d’Ivoire",
+    "en": "Côte d’Ivoire",
+    "code": "CI",
+    "offer": "Gratuite FR/EN"
+  },
+  "destinations": [
+    {
+      "number": 1,
+      "fr": "États-Unis",
+      "en": "United States",
+      "code": "US",
+      "offer": "International"
+    },
+    {
+      "number": 2,
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "code": "GB",
+      "offer": "International"
+    },
+    {
+      "number": 3,
+      "fr": "Canada",
+      "en": "Canada",
+      "code": "CA",
+      "offer": "International"
+    },
+    {
+      "number": 4,
+      "fr": "Australie",
+      "en": "Australia",
+      "code": "AU",
+      "offer": "International"
+    },
+    {
+      "number": 5,
+      "fr": "Nouvelle-Zélande",
+      "en": "New Zealand",
+      "code": "NZ",
+      "offer": "International"
+    },
+    {
+      "number": 6,
+      "fr": "Irlande",
+      "en": "Ireland",
+      "code": "IE",
+      "offer": "International"
+    },
+    {
+      "number": 7,
+      "fr": "Ghana",
+      "en": "Ghana",
+      "code": "GH",
+      "offer": "International"
+    },
+    {
+      "number": 8,
+      "fr": "Nigeria",
+      "en": "Nigeria",
+      "code": "NG",
+      "offer": "International"
+    },
+    {
+      "number": 9,
+      "fr": "Kenya",
+      "en": "Kenya",
+      "code": "KE",
+      "offer": "International"
+    },
+    {
+      "number": 10,
+      "fr": "Rwanda",
+      "en": "Rwanda",
+      "code": "RW",
+      "offer": "International"
+    },
+    {
+      "number": 11,
+      "fr": "Ouganda",
+      "en": "Uganda",
+      "code": "UG",
+      "offer": "International"
+    },
+    {
+      "number": 12,
+      "fr": "Tanzanie",
+      "en": "Tanzania",
+      "code": "TZ",
+      "offer": "International"
+    },
+    {
+      "number": 13,
+      "fr": "Afrique du Sud",
+      "en": "South Africa",
+      "code": "ZA",
+      "offer": "International"
+    },
+    {
+      "number": 14,
+      "fr": "Botswana",
+      "en": "Botswana",
+      "code": "BW",
+      "offer": "International"
+    },
+    {
+      "number": 15,
+      "fr": "Chine",
+      "en": "China",
+      "code": "CN",
+      "offer": "International"
+    },
+    {
+      "number": 16,
+      "fr": "Singapour",
+      "en": "Singapore",
+      "code": "SG",
+      "offer": "International"
+    },
+    {
+      "number": 17,
+      "fr": "Malaisie",
+      "en": "Malaysia",
+      "code": "MY",
+      "offer": "International"
+    },
+    {
+      "number": 18,
+      "fr": "Hong Kong",
+      "en": "Hong Kong",
+      "code": "HK",
+      "offer": "International"
+    },
+    {
+      "number": 19,
+      "fr": "Taïwan",
+      "en": "Taiwan",
+      "code": "TW",
+      "offer": "International"
+    },
+    {
+      "number": 20,
+      "fr": "Inde",
+      "en": "India",
+      "code": "IN",
+      "offer": "International"
+    },
+    {
+      "number": 21,
+      "fr": "Corée du Sud",
+      "en": "South Korea",
+      "code": "KR",
+      "offer": "International"
+    },
+    {
+      "number": 22,
+      "fr": "Japon",
+      "en": "Japan",
+      "code": "JP",
+      "offer": "International"
+    },
+    {
+      "number": 23,
+      "fr": "Thaïlande",
+      "en": "Thailand",
+      "code": "TH",
+      "offer": "International"
+    },
+    {
+      "number": 24,
+      "fr": "Philippines",
+      "en": "Philippines",
+      "code": "PH",
+      "offer": "International"
+    },
+    {
+      "number": 25,
+      "fr": "Émirats arabes unis",
+      "en": "United Arab Emirates",
+      "code": "AE",
+      "offer": "International"
+    },
+    {
+      "number": 26,
+      "fr": "Qatar",
+      "en": "Qatar",
+      "code": "QA",
+      "offer": "International"
+    },
+    {
+      "number": 27,
+      "fr": "Allemagne",
+      "en": "Germany",
+      "code": "DE",
+      "offer": "International"
+    },
+    {
+      "number": 28,
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "code": "NL",
+      "offer": "International"
+    },
+    {
+      "number": 29,
+      "fr": "Suisse",
+      "en": "Switzerland",
+      "code": "CH",
+      "offer": "International"
+    },
+    {
+      "number": 30,
+      "fr": "Arabie saoudite",
+      "en": "Saudi Arabia",
+      "code": "SA",
+      "offer": "International"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "version": "V6",
+  "tests": {
+    "command": "python3 -m unittest discover -s tests -v",
+    "passed": 7,
+    "failed": 0,
+    "red_green_observed": [
+      "renderer missing then implemented",
+      "sender gates missing then implemented",
+      "ledger permission 0644 failed then private 0600 passed",
+      "scene_index selection failed then implemented",
+      "invalid scene validation failed then implemented",
+      "whitelist packager missing then implemented",
+      "linkedin_kind null default failed then implemented"
+    ]
+  },
+  "platform": "Darwin",
+  "python": "3.12.10",
+  "archive_example": true,
+  "sent": false,
+  "smtp_network_calls": 0,
+  "html_email_bytes": 44024,
+  "mime_bytes": 301063,
+  "image_parts": 7,
+  "cid_sets_match": true,
+  "balanced_html_tags": true,
+  "visible_logo": 1,
+  "original_sources_modified": false,
+  "existing_mail_configuration_read": false,
+  "cron_modified": false,
+  "remote_linux_tested": false,
+  "relocated_archive_local_tests_passed": 7,
+  "relocated_archive_render_and_dry_run": true,
+  "whitelist_entries": 23,
+  "archive_marker_scan": "passed",
+  "source_secret_values_read": false,
+  "gmail_render_tested": false,
+  "visual_responsive_browser_tested": false,
+  "limitations": [
+    "AI generation/research required; no autonomous collector",
+    "Remote Linux, real SMTP and Gmail not tested",
+    "Existing sender address deliberately not read: configure separately",
+    "Archived source content rendered, not independently re-researched",
+    "Marker scan cannot identify every possible secret; whitelist is primary boundary"
+  ]
+}

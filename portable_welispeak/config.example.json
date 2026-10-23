@@ -1,0 +1,17 @@
+{
+  "send_authorized": false,
+  "recipient": "ndriaffre@gmail.com",
+  "sender_email": null,
+  "sender_display": "WELISPEAK — L’essentiel",
+  "future_sender": {
+    "email": "newsletter@welispeak.com",
+    "enabled": false
+  },
+  "smtp_host": null,
+  "smtp_port": 587,
+  "whatsapp_channel_url": null,
+  "linkedin_url": null,
+  "linkedin_kind": null,
+  "preference_url": null,
+  "unsubscribe_url": null
+}

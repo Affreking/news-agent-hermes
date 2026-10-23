@@ -1,0 +1,18 @@
+{
+  "bulletin": "WELISPEAK",
+  "date": "2026-11-01",
+  "number": 1,
+  "label": "Nº001",
+  "timezone": "Africa/Abidjan",
+  "status": "preview",
+  "published": false,
+  "approved_for_send": false,
+  "official_number_reserved": false,
+  "article_count": 0,
+  "sent": false,
+  "corrected": false,
+  "files": {
+    "launch_fr.html": "21a743d9c5e5bc64bd586c594e932083fcc654f0d0629f5bb8dd06dee642ccba",
+    "launch_en.html": "1447cd2531738af2ee0f489fa80d28745105c7c1be4ff0fffc32ea938ba8c16a"
+  }
+}

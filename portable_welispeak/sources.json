@@ -1,0 +1,15 @@
+{
+  "timezone": "Africa/Abidjan",
+  "publication_window_hours": 24,
+  "target_stories_min": 6,
+  "target_stories_max": 8,
+  "target_time_utc": "06:00",
+  "schedule_enabled": false,
+  "sources": [
+    {"name": "AIP", "homepage": "https://www.aip.ci/"},
+    {"name": "Fraternité Matin", "homepage": "https://www.fratmat.info/"},
+    {"name": "BENIN WEB TV", "homepage": "https://beninwebtv.com/"}
+  ],
+  "collector_implemented": false,
+  "requires_ai_generation_and_editorial_verification": true
+}

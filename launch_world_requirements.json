@@ -1,0 +1,29 @@
+{
+  "official_launch_date": "2026-11-01",
+  "official_first_number": 1,
+  "timezone": "Africa/Abidjan",
+  "send_time": null,
+  "schedule_changes_authorized": false,
+  "publication_authorized": false,
+  "real_payments_enabled": false,
+  "base_offer": {
+    "name": "WELISPEAK — L’essentiel",
+    "destinations": ["CI"],
+    "languages": ["fr", "en"]
+  },
+  "world_offer": {
+    "provisional_name": "WELISPEAK — Édition Monde",
+    "price": null,
+    "price_label": "à définir",
+    "additional_destination_count": 30,
+    "registry_source": "AGENT_SPEC_CI_PRESS_BRIEF_v2.md, section 18",
+    "payment_grants_catalogue": "CI plus all 30 additional destinations",
+    "email_preferences_scope": "delivery selection only, not access entitlement"
+  },
+  "notes": [
+    "Launch preview is not publication and must not consume production number.",
+    "All sends before launch date are tests, even if labeled otherwise.",
+    "No scheduled task or SMTP setting may be modified by this development.",
+    "Current user instruction says morning time remains to be confirmed; prior saved scheduling state must remain untouched."
+  ]
+}
